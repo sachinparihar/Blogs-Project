@@ -1,3 +1,4 @@
-baseURL = 'https://sachinparihar/Blogs-Project.github.io'
+baseURL = 'http://github.com/sachinparihar/Blogs-Project'
 languageCode = 'en-us'
-title = 'The Open Blogging'
+title = 'My New Hugo Site'
+theme = 'hugo-theme-relearn'
