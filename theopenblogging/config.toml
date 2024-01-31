@@ -1,4 +1,0 @@
-baseURL = 'http://github.com/sachinparihar/Blogs-Project'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'hugo-theme-relearn'
